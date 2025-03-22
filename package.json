@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "lite-server",
-    "dev": "tsc && lite-server"
+  "build": "tsc",
+  "start": "lite-server",
+  "dev": "tsc && lite-server"
   },
   "keywords": [],
   "author": "",
